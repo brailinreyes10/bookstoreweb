@@ -106,7 +106,7 @@ Antes de poder ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 **Clonar el repositorio:**
 
 ```bash
-git clone --Agregarrrrrrrrrrrrr
+git clone https://github.com/brailinreyes10/bookstoreweb.git
 ```
 
 ## Configuración de la Base de datos
